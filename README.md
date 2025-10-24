@@ -27,3 +27,10 @@ This project analyzes 8,523 retail transactions from Blinkit using Python, Panda
 3. Run the analysis: `python scripts/blinkit_analysis.py`
 
 ## 📁 Project Structure
+
+blinkit-sales-analysis/
+├── data/
+├── scripts/
+├── visualizations/
+└── reports/
+
